@@ -1,0 +1,50 @@
+{
+    "name": "Podman Intro",
+    "description": "A basic introduction to Podman",
+    "level": "beginner",
+    "language": "bash",
+    "exercises": [
+      {
+        "name": "Exercise 1: Check Podman Version",
+        "description": "Run the 'podman version' command to see what version of Podman you have.",
+        "commands": [
+          {
+            "type": "run",
+            "command": "podman version"
+          }
+        ],
+        "tests": [
+          {
+            "type": "regex",
+            "pattern": "Podman version",
+            "message": "Success! You ran the podman version command."
+          }
+        ],
+        "hints": [
+          "Try running 'podman version'"
+        ],
+        "solution": "podman version"
+      },
+      {
+        "name": "Exercise 2: Check Podman Version Again",
+        "description": "Let's try that command again.  Run 'podman version'.",
+        "commands": [
+          {
+            "type": "run",
+            "command": "podman version"
+          }
+        ],
+        "tests": [
+          {
+            "type": "regex",
+            "pattern": "Podman version",
+            "message": "Success! You ran the podman version command."
+          }
+        ],
+        "hints": [
+          "The command to check the Podman version is 'podman version'"
+        ],
+        "solution": "podman version"
+      }
+    ]
+  }
