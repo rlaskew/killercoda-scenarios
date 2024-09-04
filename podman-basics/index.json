@@ -3,6 +3,9 @@
     "description": "A basic introduction to Podman",
     "level": "beginner",
     "language": "bash",
+    "backend": {
+        "imageid": "ubuntu"
+    }
     "exercises": [
       {
         "name": "Exercise 1: Check Podman Version",
