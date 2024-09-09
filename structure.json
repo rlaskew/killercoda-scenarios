@@ -1,6 +1,7 @@
 {
     "items": [
         { "path": "something-random" },
+        { "path": "example-ubuntu" },
         { "path": "example-ubuntu" }
     ]
   }
