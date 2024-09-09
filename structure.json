@@ -1,0 +1,7 @@
+{
+    "version": "2.0",
+            "items": [
+                { "path": "example-2-ubuntu" },
+                { "path": "podman-networking" }
+            ]
+      }

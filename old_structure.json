@@ -1,9 +1,0 @@
-{
-    "version": "2.0",
-    
-            "items": [
-                { "path": "something-random" },
-                { "path": "example-ubuntu" },
-                { "path": "example-ubuntu" }
-            ]
-      }
