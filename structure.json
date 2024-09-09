@@ -1,0 +1,6 @@
+{
+    "items": [
+      { "path": "tryitout", "title": "Override title of course ONE" },
+      { "path": "podman-basics" }
+    ]
+  }
