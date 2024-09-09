@@ -1,6 +1,7 @@
 {
     "items": [
         { "path": "something-random" },
-        { "path": "tryitout", "title": "Override title of course ONE" }
+        { "path": "example-ubuntu"},
+        { "path": "example-ubuntu", "title": "Override title of course ONE" }
     ]
   }
