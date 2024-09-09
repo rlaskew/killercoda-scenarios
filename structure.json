@@ -1,13 +1,9 @@
 {
     "version": "2.0",
-    "folders" : [ 
-        { 
-            "title": "First Folder",
+    
             "items": [
                 { "path": "something-random" },
                 { "path": "example-ubuntu" },
                 { "path": "example-ubuntu" }
             ]
-        }
-    ]
-  }
+      }
